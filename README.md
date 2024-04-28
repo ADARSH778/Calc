@@ -92,7 +92,7 @@ Publish the website in the given URL.
 </head>
 <body>
 <div class="name">
-    <h1>SIMPLE CALCULATOR</h1>
+    <h1>STANDARD CALCULATOR</h1>
     <h1>Adarsh Chowdary R(21223040166)</h1>
 </div>
 <div class="container">  
@@ -111,7 +111,7 @@ Publish the website in the given URL.
                 <input type="button" onclick="display.value+='7'" value="7">
                 <input type="button" onclick="display.value+='8'" value="8">
                 <input type="button" onclick="display.value+='9'" value="9">
-                <input type="button" onclick="display.value+=''" value="" class="color">
+                <input type="button" onclick="display.value+='*'" value="*" class="color">
             </div>
             <div>
                 <input type="button" onclick="display.value+='4'" value="4">
@@ -156,9 +156,11 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![Screenshot (60)](https://github.com/ADARSH778/Calc/assets/149347361/6709165c-30bf-41ec-9da0-0788a8944666)
 
-![Screenshot (61)](https://github.com/ADARSH778/Calc/assets/149347361/58fcc239-c0f2-4a0d-9155-9d5af81d2eea)
+![Screenshot (64)](https://github.com/ADARSH778/Calc/assets/149347361/2368b01d-404d-443f-8aa3-31e111e0d032)
+
+![Screenshot (65)](https://github.com/ADARSH778/Calc/assets/149347361/b158ac45-132b-4843-985e-fa24e20837af)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
